@@ -1,4 +1,4 @@
-# firstgit
+# 연습용
 
 1. 안녕하세요.
 2. *박재현*입니다.
@@ -23,3 +23,8 @@ print(f'회원1 : {member1.name}({member1.account},{member1.passwd},{member1.bir
 print(f'회원2 : {member2.name}({member2.account},{member2.passwd},{member2.birthyear})')
 print(f'회원3 : {member3.name}({member3.account},{member3.passwd},{member3.birthyear})')
 ```
+<https://github.com/ParkJaehyeonZany>
+
+[본계정 프로필](https://github.com/ParkJaehyeonZany)
+
+[Google](https://google.com, "구글")
